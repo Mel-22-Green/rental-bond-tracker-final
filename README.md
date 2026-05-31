@@ -155,6 +155,6 @@ App opens at **http://localhost:3000** ✅
 - Aayush Bhandari
 - Sujan Lamichhane
 - Linh Nguyen
--dadhi ram poudel
--asim Bhattarai
--subham shrestha
+- Dadhi ram poudel
+- Asim Bhattarai
+- Subham shrestha
